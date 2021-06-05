@@ -8,6 +8,10 @@
     iRead News
 </h1>
 
+<p align="center">
+    Download the APK from <a href="https://github.com/ashutoshkrris/iRead-News/blob/master/iread-news.apk">here</a>
+</p>
+
 A new Flutter News Application.
 
 ## Getting Started
